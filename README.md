@@ -7,3 +7,5 @@ Learning Rails
 ==
 Excited to learn Rails with help from the RailsApps project!
 Stoked to be in this path to be a RoR dev. :)
+
+Working application running on Heroku with codeship deployments available at: [link]https://learn-rails-camilogiraldo.herokuapp.com/
