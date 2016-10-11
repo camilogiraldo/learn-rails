@@ -5,7 +5,7 @@
 
 Learning Rails
 ==
-Excited to learn Rails with help from the RailsApps project!
-Stoked to be in this path to be a RoR dev. :)
+This app was build as a learning application using the ruby on rails MVC approach. 
+You'd be able to sign up into a mailing list using mailchimp and to contact site administrator using sendgrid mail manager.
 
 Working application running on Heroku with codeship deployments available at: [link]https://learn-rails-camilogiraldo.herokuapp.com/
